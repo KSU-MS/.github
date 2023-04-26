@@ -1,4 +1,4 @@
-KSU MS general workflow-
+KSU MS general workflow---------------------
 
 
 main- code which has been tested and known good, cannot directly push, must make a pull request and then have it approved
@@ -8,7 +8,7 @@ testing- combine all branches into this to test with other ongoing changes if re
 legacy- code pulled from elsewhere and snapshotted with the orginal version of the code
 
 
-Workflow for implementing new features
+Workflow for implementing new features-----------------------
  
 Create issue detailing new idea
 
