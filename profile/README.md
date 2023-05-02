@@ -5,7 +5,7 @@ main- code which has been tested and known good, cannot directly push, must make
 
 testing- combine all branches into this to test with other ongoing changes if ready to push to main
 
-legacy- code pulled from elsewhere and snapshotted with the orginal version of the code
+legacy- code pulled from elsewhere and snapshotted with the original version of the code
 
 
 Workflow for implementing new features-----------------------
